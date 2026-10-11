@@ -1,0 +1,29 @@
+[
+  {
+    "titulo": "Primera obra (reemplazar)",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica por completar",
+    "medidas": "Medidas por completar",
+    "precio": "Consultar precio",
+    "disponible": true,
+    "imagen": "imagenes/obra-1.svg"
+  },
+  {
+    "titulo": "Segunda obra (reemplazar)",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica por completar",
+    "medidas": "Medidas por completar",
+    "precio": "Consultar precio",
+    "disponible": true,
+    "imagen": "imagenes/obra-2.svg"
+  },
+  {
+    "titulo": "Tercera obra (reemplazar)",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica por completar",
+    "medidas": "Medidas por completar",
+    "precio": "Consultar precio",
+    "disponible": false,
+    "imagen": "imagenes/obra-3.svg"
+  }
+]
