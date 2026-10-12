@@ -1,1 +1,111 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Galería de obras de la artista plástica María Luján Perlán."><title>M. L. Perlán | Galería de Arte</title><link rel="stylesheet" href="style.css"></head><body><header class="site-header"><a class="brand" href="#inicio">M. L. PERLÁN <small>ARTISTA PLÁSTICA</small></a><nav aria-label="Navegación"><a href="#obras">Obras</a><a href="#artista">Sobre mí</a><a href="#contacto">Contacto</a></nav></header><main id="inicio"><section class="hero"><p class="eyebrow">MARÍA LUJÁN PERLÁN</p><h1>Galería de obras</h1><p>Arte que invita a detenerse y mirar.</p></section><section id="obras" class="gallery-section"><div class="section-heading"><h2>Obras</h2></div><div id="gallery" class="gallery" aria-live="polite"></div></section><section id="artista" class="about"><p class="eyebrow">LA ARTISTA</p><h2>María Luján Perlán</h2><p>Artista plástica. Un espacio para descubrir sus pinturas, retratos y exploraciones visuales.</p><p class="muted">Podés reemplazar este texto por una biografía personal y su trayectoria artística.</p></section><section id="contacto" class="contact"><p class="eyebrow">CONSULTAS</p><h2>¿Te interesa una obra?</h2><p>Para consultar precios, disponibilidad o coordinar una adquisición, escribime por privado.</p><a class="contact-link" href="https://www.instagram.com/mlperlan.art/" target="_blank" rel="noopener noreferrer">Contactar por Instagram ↗</a></section></main><footer>© <span id="year"></span> María Luján Perlán · Arte original</footer><dialog id="viewer" aria-label="Vista ampliada de la obra"><button id="closeViewer" class="close" aria-label="Cerrar">×</button><img id="largeImage" alt=""><p id="viewerTitle"></p></dialog><script src="script.js"></script></body></html>
+
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Galería de obras de la artista plástica María Luján Perlán.">
+  <title>M. L. Perlán | Galería de Arte</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- ENCABEZADO Y NAVEGACIÓN -->
+  <header class="site-header">
+    <a class="brand" href="#inicio">
+      M. L. PERLÁN
+      <small>ARTISTA PLÁSTICA</small>
+    </a>
+
+    <nav aria-label="Navegación">
+      <a href="#obras">Obras</a>
+      <a href="#artista">Sobre mí</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <main id="inicio">
+
+    <!-- INICIO -->
+    <section class="hero">
+      <p class="eyebrow">MARÍA LUJÁN PERLÁN</p>
+      <h1>Galería de obras</h1>
+      <p>Arte que invita a detenerse y mirar.</p>
+    </section>
+
+    <!-- GALERÍA DE OBRAS -->
+    <section id="obras" class="gallery-section">
+      <div class="section-heading">
+        <h2>Obras</h2>
+      </div>
+
+      <div id="gallery" class="gallery" aria-live="polite"></div>
+    </section>
+
+    
+<!-- SOBRE LA ARTISTA -->
+<section id="artista" class="about">
+  <p class="eyebrow">LA ARTISTA</p>
+  <h2>María Luján Perlán</h2>
+
+  <p>
+    Soy María Luján Perlán, artista plástica y profesora
+    de pintura y dibujo.
+  </p>
+
+  <p>
+    Desde hace muchos años, el arte forma parte de mi vida
+    y es mi manera de expresar emociones, contar historias
+    y conectar con los demás. A través de mis obras, busco
+    capturar la profundidad de las miradas y transmitir
+    aquello que muchas veces las palabras no pueden expresar.
+  </p>
+
+  <p>
+    Creo que cada mirada cuenta una historia y que cada obra
+    puede despertar emociones diferentes en quien la contempla.
+    Mi intención es invitar al espectador a detenerse,
+    observar y encontrar su propia interpretación.
+  </p>
+</section>
+
+    <!-- CONTACTO -->
+    <section id="contacto" class="contact">
+      <p class="eyebrow">CONSULTAS</p>
+      <h2>¿Te interesa una obra?</h2>
+
+      <p>
+        Para consultar precios, disponibilidad o coordinar
+        una adquisición, escribime por privado.
+      </p>
+
+      <a
+        class="contact-link"
+        href="https://www.instagram.com/mlperlan.art/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Contactar por Instagram ↗
+      </a>
+    </section>
+
+  </main>
+
+  <!-- PIE DE PÁGINA -->
+  <footer>
+    © <span id="year"></span> María Luján Perlán · Arte original
+  </footer>
+
+  <!-- VISOR DE IMÁGENES -->
+  <dialog id="viewer" aria-label="Vista ampliada de la obra">
+    <button id="closeViewer" class="close" aria-label="Cerrar">×</button>
+    <img id="largeImage" alt="">
+    <p id="viewerTitle"></p>
+  </dialog>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
