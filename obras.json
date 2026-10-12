@@ -1,29 +1,58 @@
 [
   {
-    "titulo": "Primera obra (reemplazar)",
+    "titulo": "Hermandad",
     "autora": "María Luján Perlán",
-    "tecnica": "Técnica por completar",
-    "medidas": "Medidas por completar",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "50 × 60 cm",
     "precio": "Consultar precio",
-    "disponible": true,
-    "imagen": "imagenes/obra-1.svg"
+    "imagen": "imagenes/hermandad.jpg"
   },
   {
-    "titulo": "Segunda obra (reemplazar)",
+    "titulo": "Resignación",
     "autora": "María Luján Perlán",
-    "tecnica": "Técnica por completar",
-    "medidas": "Medidas por completar",
+    "tecnica": "Técnica mixta: óleo sobre tela, espátula e hilos trenzados",
+    "medidas": "60 × 70 cm",
     "precio": "Consultar precio",
-    "disponible": true,
-    "imagen": "imagenes/obra-2.svg"
+    "imagen": "imagenes/resignacion.jpg"
   },
   {
-    "titulo": "Tercera obra (reemplazar)",
+    "titulo": "Metamorfosis",
     "autora": "María Luján Perlán",
-    "tecnica": "Técnica por completar",
-    "medidas": "Medidas por completar",
+    "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y purpurina",
+    "medidas": "60 × 80 cm",
     "precio": "Consultar precio",
-    "disponible": false,
-    "imagen": "imagenes/obra-3.svg"
+    "imagen": "imagenes/metamorfosis.jpg"
+  },
+  {
+    "titulo": "Primavera resplandesciente",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y acrílicos",
+    "medidas": "40 × 60 cm",
+    "precio": "Consultar precio",
+    "imagen": "imagenes/primavera-resplandesciente.jpg"
+  },
+  {
+    "titulo": "Enigma",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, stencil y espatulado",
+    "medidas": "60 × 80 cm",
+    "precio": "Consultar precio",
+    "imagen": "imagenes/enigma.jpg"
+  },
+  {
+    "titulo": "El secreto detrás de mis ojos",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela y acrílico",
+    "medidas": "50 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "imagenes/el-secreto-detras-de-mis-ojos.jpg"
+  },
+  {
+    "titulo": "Transmutación",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela y acrílico",
+    "medidas": "50 × 60 cm",
+    "precio": "Consultar precio",
+    "imagen": "imagenes/transmutacion.jpg"
   }
 ]
