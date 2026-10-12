@@ -15,7 +15,16 @@ function render() {
     const img = document.createElement('img'); img.src = work.imagen; img.alt = `Obra ${work.titulo}, de ${work.autora}`; img.loading = 'lazy';
     button.append(img);
     button.addEventListener('click', () => { largeImage.src = work.imagen; largeImage.alt = img.alt; viewerTitle.textContent = `${work.titulo} — ${work.autora}`; viewer.showModal(); });
-    article.append(button, textElement('h3','',work.titulo), textElement('p','details',`${work.autora} · ${work.tecnica}`), textElement('p','details',work.medidas), textElement('p','price',work.precio || 'Consultar precio'));
+    
+article.append(
+  button,
+  textElement('h3', '', work.titulo),
+  textElement('p', 'details', work.tecnica),
+  textElement('p', 'details', work.medidas),
+  textElement('p', 'details', work.autora),
+  textElement('p', 'price', work.precio || 'Consultar precio')
+);
+
     gallery.append(article);
   });
 }
