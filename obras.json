@@ -5,7 +5,6 @@
     "tecnica": "Óleo sobre tela",
     "medidas": "50 × 60 cm",
     "precio": "Consultar precio",
-    "disponible": true,
     "imagen": "hermandad.jpg"
   },
   {
@@ -14,7 +13,6 @@
     "tecnica": "Técnica mixta: óleo sobre tela, espátula e hilos trenzados",
     "medidas": "60 × 70 cm",
     "precio": "Consultar precio",
-    "disponible": true,
     "imagen": "resignacion.jpg"
   },
   {
@@ -23,7 +21,6 @@
     "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y purpurina",
     "medidas": "60 × 80 cm",
     "precio": "Consultar precio",
-    "disponible": true,
     "imagen": "metamorfosis.jpg"
   },
   {
@@ -32,7 +29,6 @@
     "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y acrílicos",
     "medidas": "40 × 60 cm",
     "precio": "Consultar precio",
-    "disponible": true,
     "imagen": "primavera-resplandesciente.jpg"
   },
   {
@@ -41,7 +37,6 @@
     "tecnica": "Técnica mixta: óleo sobre tela, stencil y espatulado",
     "medidas": "60 × 80 cm",
     "precio": "Consultar precio",
-    "disponible": true,
     "imagen": "enigma.jpg"
   },
   {
@@ -50,7 +45,6 @@
     "tecnica": "Óleo sobre tela y acrílico",
     "medidas": "50 × 70 cm",
     "precio": "Consultar precio",
-    "disponible": true,
     "imagen": "el_secreto_detras_de_mis_ojos.jpg"
   },
   {
@@ -59,7 +53,6 @@
     "tecnica": "Óleo sobre tela y acrílico",
     "medidas": "50 × 60 cm",
     "precio": "Consultar precio",
-    "disponible": true,
     "imagen": "transmutacion.jpg"
   }
 ]
