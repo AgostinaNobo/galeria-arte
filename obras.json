@@ -5,7 +5,7 @@
     "tecnica": "Óleo sobre tela",
     "medidas": "50 × 60 cm",
     "precio": "Consultar precio",
-    "imagen": "imagenes/hermandad.jpg"
+    "imagen": "hermandad.jpg"
   },
   {
     "titulo": "Resignación",
@@ -13,7 +13,7 @@
     "tecnica": "Técnica mixta: óleo sobre tela, espátula e hilos trenzados",
     "medidas": "60 × 70 cm",
     "precio": "Consultar precio",
-    "imagen": "imagenes/resignacion.jpg"
+    "imagen": "resignacion.jpg"
   },
   {
     "titulo": "Metamorfosis",
@@ -21,7 +21,7 @@
     "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y purpurina",
     "medidas": "60 × 80 cm",
     "precio": "Consultar precio",
-    "imagen": "imagenes/metamorfosis.jpg"
+    "imagen": "metamorfosis.jpg"
   },
   {
     "titulo": "Primavera resplandesciente",
@@ -29,7 +29,7 @@
     "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y acrílicos",
     "medidas": "40 × 60 cm",
     "precio": "Consultar precio",
-    "imagen": "imagenes/primavera-resplandesciente.jpg"
+    "imagen": "primavera-resplandesciente.jpg"
   },
   {
     "titulo": "Enigma",
@@ -37,7 +37,7 @@
     "tecnica": "Técnica mixta: óleo sobre tela, stencil y espatulado",
     "medidas": "60 × 80 cm",
     "precio": "Consultar precio",
-    "imagen": "imagenes/enigma.jpg"
+    "imagen": "enigma.jpg"
   },
   {
     "titulo": "El secreto detrás de mis ojos",
@@ -45,7 +45,7 @@
     "tecnica": "Óleo sobre tela y acrílico",
     "medidas": "50 × 70 cm",
     "precio": "Consultar precio",
-    "imagen": "imagenes/el-secreto-detras-de-mis-ojos.jpg"
+    "imagen": "el-secreto-detras-de-mis-ojos.jpg"
   },
   {
     "titulo": "Transmutación",
@@ -53,6 +53,6 @@
     "tecnica": "Óleo sobre tela y acrílico",
     "medidas": "50 × 60 cm",
     "precio": "Consultar precio",
-    "imagen": "imagenes/transmutacion.jpg"
+    "imagen": "transmutacion.jpg"
   }
 ]
