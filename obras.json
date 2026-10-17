@@ -54,5 +54,134 @@
     "medidas": "50 × 60 cm",
     "precio": "Consultar precio",
     "imagen": "transmutacion.jpeg"
+  },
+  {
+    "titulo": "Amor",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "60 × 80 cm",
+    "precio": "No disponible",
+    "imagen": "amor.jpeg"
+  },
+  {
+    "titulo": "Bajo la tormenta",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "60 × 80 cm",
+    "precio": "Consultar precio",
+    "imagen": "bajo-la-tormenta.jpeg"
+  },
+  {
+    "titulo": "Detrás del oro",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, espatulado, dorado a la hoja y acrílico",
+    "medidas": "90 × 120 cm",
+    "precio": "Consultar precio",
+    "imagen": "detras-del-oro.jpeg"
+  },
+  {
+    "titulo": "El mapa del tiempo",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "40 × 50 cm",
+    "precio": "Consultar precio",
+    "imagen": "el-mapa-del-tiempo.jpeg"
+  },
+  {
+    "titulo": "Esencia de oriente",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "60 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "esencia-de-oriente.jpeg"
+  },
+  {
+    "titulo": "Hija del Amazonas",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "40 × 60 cm",
+    "precio": "Consultar precio",
+    "imagen": "hija-del-amazonas.jpeg"
+  },
+  {
+    "titulo": "Instante eterno",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, espatulado, dorado a la hoja y acrílico",
+    "medidas": "90 × 150 cm",
+    "precio": "No disponible",
+    "imagen": "instante-eterno.jpeg"
+  },
+  {
+    "titulo": "Instinto alfa",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "60 × 80 cm",
+    "precio": "Consultar precio",
+    "imagen": "instinto-alfa.jpeg"
+  },
+  {
+    "titulo": "La mitad de un todo",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, espatulado y acrílico",
+    "medidas": "90 × 120 cm",
+    "precio": "Consultar precio",
+    "imagen": "la-mitad-de-un-todo.jpeg"
+  },
+  {
+    "titulo": "Licor de travesura",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "40 × 50 cm",
+    "precio": "Consultar precio",
+    "imagen": "licor-de-travesura.jpeg"
+  },
+  {
+    "titulo": "Lo que las hojas esconden",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "60 × 80 cm",
+    "precio": "Consultar precio",
+    "imagen": "lo-que-las-hojas-esconden.jpeg"
+  },
+  {
+    "titulo": "Mirada de ceniza",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "50 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "mirada-de-ceniza.jpeg"
+  },
+  {
+    "titulo": "Mirada de misericordia",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "50 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "mirada-de-misericordia.jpeg"
+  },
+  {
+    "titulo": "Ojos de alerta",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "60 × 80 cm",
+    "precio": "Consultar precio",
+    "imagen": "ojos-de-alerta.jpeg"
+  },
+  {
+    "titulo": "Percepción",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "40 × 30 cm",
+    "precio": "Consultar precio",
+    "imagen": "percepcion.jpeg"
+  },
+  {
+    "titulo": "Susurro tropical",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela y telas",
+    "medidas": "50 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "susurro-tropical.jpeg"
   }
+  
 ]
