@@ -1,60 +1,5 @@
+
 [
-  {
-    "titulo": "Hermandad",
-    "autora": "María Luján Perlán",
-    "tecnica": "Óleo sobre tela",
-    "medidas": "50 × 60 cm",
-    "precio": "Consultar precio",
-    "imagen": "hermandad.jpg"
-  },
-  {
-    "titulo": "Resignación",
-    "autora": "María Luján Perlán",
-    "tecnica": "Técnica mixta: óleo sobre tela, espátula e hilos trenzados",
-    "medidas": "60 × 70 cm",
-    "precio": "Consultar precio",
-    "imagen": "resignacion.jpg"
-  },
-  {
-    "titulo": "Metamorfosis",
-    "autora": "María Luján Perlán",
-    "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y purpurina",
-    "medidas": "60 × 80 cm",
-    "precio": "Consultar precio",
-    "imagen": "metamorfosis.jpg"
-  },
-  {
-    "titulo": "Primavera resplandesciente",
-    "autora": "María Luján Perlán",
-    "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y acrílicos",
-    "medidas": "40 × 60 cm",
-    "precio": "Consultar precio",
-    "imagen": "primavera-resplandesciente.jpg"
-  },
-  {
-    "titulo": "Enigma",
-    "autora": "María Luján Perlán",
-    "tecnica": "Técnica mixta: óleo sobre tela, stencil y espatulado",
-    "medidas": "60 × 80 cm",
-    "precio": "Consultar precio",
-    "imagen": "enigma.jpg"
-  },
-  {
-    "titulo": "El secreto detrás de mis ojos",
-    "autora": "María Luján Perlán",
-    "tecnica": "Óleo sobre tela y acrílico",
-    "medidas": "50 × 70 cm",
-    "precio": "Consultar precio",
-    "imagen": "el_secreto_detras_de_mis_ojos.jpeg"
-  },
-  {
-    "titulo": "Transmutación",
-    "autora": "María Luján Perlán",
-    "tecnica": "Óleo sobre tela y acrílico",
-    "medidas": "50 × 60 cm",
-    "precio": "Consultar precio",
-    "imagen": "transmutacion.jpeg"
-  },
   {
     "titulo": "Amor",
     "autora": "María Luján Perlán",
@@ -88,12 +33,44 @@
     "imagen": "el-mapa-del-tiempo.jpeg"
   },
   {
+    "titulo": "El secreto detrás de mis ojos",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela y acrílico",
+    "medidas": "50 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "el_secreto_detras_de_mis_ojos.jpeg"
+  },
+  {
+    "titulo": "Enigma",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, stencil y espatulado",
+    "medidas": "60 × 80 cm",
+    "precio": "Consultar precio",
+    "imagen": "enigma.jpg"
+  },
+  {
     "titulo": "Esencia de oriente",
     "autora": "María Luján Perlán",
     "tecnica": "Óleo sobre tela",
     "medidas": "60 × 70 cm",
     "precio": "Consultar precio",
     "imagen": "esencia-de-oriente.jpeg"
+  },
+  {
+    "titulo": "Fuego interno",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "40 × 50 cm",
+    "precio": "Consultar precio",
+    "imagen": "fuego-interno.jpeg"
+  },
+  {
+    "titulo": "Hermandad",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela",
+    "medidas": "50 × 60 cm",
+    "precio": "Consultar precio",
+    "imagen": "hermandad.jpg"
   },
   {
     "titulo": "Hija del Amazonas",
@@ -144,6 +121,14 @@
     "imagen": "lo-que-las-hojas-esconden.jpeg"
   },
   {
+    "titulo": "Metamorfosis",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y purpurina",
+    "medidas": "60 × 80 cm",
+    "precio": "Consultar precio",
+    "imagen": "metamorfosis.jpg"
+  },
+  {
     "titulo": "Mirada de ceniza",
     "autora": "María Luján Perlán",
     "tecnica": "Óleo sobre tela",
@@ -176,12 +161,44 @@
     "imagen": "percepcion.jpeg"
   },
   {
+    "titulo": "Primavera resplandesciente",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, papel dorado a la hoja y acrílicos",
+    "medidas": "40 × 60 cm",
+    "precio": "Consultar precio",
+    "imagen": "primavera-resplandesciente.jpg"
+  },
+  {
+    "titulo": "Reflejo del silencio",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, espatulado y telas",
+    "medidas": "50 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "reflejo-del-silencio.jpeg"
+  },
+  {
+    "titulo": "Resignación",
+    "autora": "María Luján Perlán",
+    "tecnica": "Técnica mixta: óleo sobre tela, espátula e hilos trenzados",
+    "medidas": "60 × 70 cm",
+    "precio": "Consultar precio",
+    "imagen": "resignacion.jpg"
+  },
+  {
     "titulo": "Susurro tropical",
     "autora": "María Luján Perlán",
     "tecnica": "Técnica mixta: óleo sobre tela y telas",
     "medidas": "50 × 70 cm",
     "precio": "Consultar precio",
     "imagen": "susurro-tropical.jpeg"
+  },
+  {
+    "titulo": "Transmutación",
+    "autora": "María Luján Perlán",
+    "tecnica": "Óleo sobre tela y acrílico",
+    "medidas": "50 × 60 cm",
+    "precio": "Consultar precio",
+    "imagen": "transmutacion.jpeg"
   }
-  
 ]
+
